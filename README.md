@@ -30,7 +30,7 @@ Instruções para instalação do banco de dados:
 
 3 - Tudo certo, agora você já possui um container rodando na sua maquina!
 
-URL para CRUD de produtos local: http://localhost:3000/v1/products
+URL API para CRUD de produtos: http://localhost:3000/v1/products
 
 OBS: A conexão com o banco de dados fica na variável de ambiente dentro do projeto: nodemon.json, abaixo json de configuração.
 
@@ -50,5 +50,6 @@ OBS: A conexão com o banco de dados fica na variável de ambiente dentro do pro
   }
 
 4 - Comandos para rodar a aplicação
+
     1 - npm install
     2 - npm run start:dev
