@@ -51,5 +51,6 @@ OBS: A conexão com o banco de dados fica na variável de ambiente dentro do pro
 
 4 - Comandos para rodar a aplicação
 
-    1 - npm install
-    2 - npm run start:dev
+	1 - npm i -g @nestjs/cli
+    2 - npm install
+    3 - npm run start:dev
